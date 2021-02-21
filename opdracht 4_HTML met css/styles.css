@@ -1,0 +1,33 @@
+body { 
+    color: black;
+    background-color: #fae3f0;
+    font-family: 'Open Sans', sans-serif;
+}
+header {
+    background-color: white;
+}
+.navigatie {
+    background-color: #ee7e8c;
+    color: white;
+}
+footer {
+    background-color: lightgray;
+}
+.black-border {
+    border: 1px solid #ee7e8c;
+}
+
+h1 {
+   color: #ee7e8c;
+   font-size: 12;
+}
+h2 {
+    color: #ee7e8c;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10;
+}
+p {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10;
+}
