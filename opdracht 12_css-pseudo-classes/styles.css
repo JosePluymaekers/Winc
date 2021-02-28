@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.menubalk {
+    background-color: darkblue;
+    display: flex;
+    list-style: none;
+}
+
+.menubalk li:hover{
+    background-color: lightblue;
+}
+
+.menu {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.currentpage {
+    padding: 10px;
+    text-decoration: none;
+    background-color: blueviolet;
+}
+
+.menu:first-child{
+    padding-left: 0px;
+}
+
+
+.link1:hover {
+    color: lightblue;
+    font-weight: bold;
+}
+
+.link2:active {
+    color: red;
+    font-style: italic;
+}
+
+.link3:visited {
+    color: yellow;
+}
+
+.input:focus {
+    color: green;
+    font-size: 20px;
+}
+
+input:focus{
+    border: aqua 2px solid;
+}
